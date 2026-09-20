@@ -1,14 +1,12 @@
 name: "Virtual ONVIF Device"
 description: "Creates virtual ONVIF cameras with configurable streams and event injection"
-version: "1.0.0"
+version: "1.0.1"
 slug: "virtual_onvif"
 init: false
 arch:
   - aarch64
   - amd64
-  - armhf
-  - armv7
-  - i386
+
 
 # Network ports
 ports:
